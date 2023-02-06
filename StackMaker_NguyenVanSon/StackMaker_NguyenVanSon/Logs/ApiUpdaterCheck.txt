@@ -1,0 +1,50 @@
+[api-updater (non-obsolete-error-filter)] 2/6/2023 10:16:08 AM : Starting E:/UNGDUNG/UNITY/Unity 2020.3.42f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1069.0236ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 737ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2/6/2023 10:39:35 AM : Starting E:/UNGDUNG/UNITY/Unity 2020.3.42f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 70.0217ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 203ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2/6/2023 11:23:10 AM : Starting E:/UNGDUNG/UNITY/Unity 2020.3.42f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 76.3146ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 200ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2/6/2023 11:23:20 AM : Starting E:/UNGDUNG/UNITY/Unity 2020.3.42f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 63.8555ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 212ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2/6/2023 11:53:00 AM : Starting E:/UNGDUNG/UNITY/Unity 2020.3.42f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 71.692ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 174ms
+candidates check time : 33ms
+console write time    : 0ms
+
